@@ -3,6 +3,8 @@
 
 Welcome to the Clip Llama Releases repository! This repository is dedicated to hosting the official releases of the Clip Llama application.
 
+Current release: [1.1.0](https://github.com/nunyvega/clip-llama-releases/releases/tag/v1.1.0)
+
 ## About Clip Llama
 
 Clip Llama is a clipboard helper tool designed to enhance your productivity by making it easier to manage and use your clipboard history.
